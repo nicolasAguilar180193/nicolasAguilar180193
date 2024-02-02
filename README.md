@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Nicolas Aguilar👋</h1>
+</div>
+
+<img src="https://i.imgur.com/YJaBcK8.png">
 
 <!--
 **nicolasAguilar180193/nicolasAguilar180193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
