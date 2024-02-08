@@ -7,9 +7,9 @@
 <p>
   I'm a web developer from Argentina. 🇦🇷
   
-  💻 My journey in the coding realm has been marked by a focus on PHP, particularly within the Laravel framework. I also worked with Slim and on some occasions with pure PHP. 
+  💻 I like PHP, and particularly Laravel. I also worked with Slim and on some occasions with pure PHP.
   
-  🚀 On the front-end, I wield the power of Angular as my primary framework, crafting dynamic and responsive user interfaces. I've also navigated the realms of React. Currently exploring the world of Vue.js.
+  🚀 On the front-end, I use Angular as my main framework, crafting dynamic and responsive user interfaces. I also like React. Currently exploring the world of NextJs.
   
   🌐 Let's connect and build something amazing together! Feel free to explore my repositories and drop a message if you have any exciting projects or ideas to discuss.
 
