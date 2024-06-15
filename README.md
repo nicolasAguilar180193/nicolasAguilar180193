@@ -9,7 +9,7 @@
   
   💻 I like PHP, and particularly Laravel. I also worked with Slim and on some occasions with pure PHP.
   
-  🚀 On the front-end, I use Angular as my main framework, crafting dynamic and responsive user interfaces. I also like React. Currently exploring the world of NextJs.
+  🚀 On the front-end, I use Angular as my main framework, crafting dynamic and responsive user interfaces. I also like React. Currently exploring the world of Vue.
   
   🌐 Let's connect and build something amazing together! Feel free to explore my repositories and drop a message if you have any exciting projects or ideas to discuss.
 
